@@ -69,25 +69,33 @@
   <img src="https://img.shields.io/badge/XR%20%2F%20VR-4B32C3?style=flat-square&logo=oculus&logoColor=white" alt="XR / VR"/>
 </p>
 
-<!--
+
 ### Selected work
 
-Replace these with two or three repositories worth showing.
-One line each: what it does, and what was hard about it.
+- **[GachaBot](https://github.com/BasteArima/gachabot)** — A cross-platform Gacha bot for Telegram and Discord written in Go. Features card collecting, duels, sets, and promo codes.
+<!--- **[repo-name](https://github.com/BasteArima/HiddenPool)** — one-sentence description of the problem it solves.-->
 
-- **[repo-name](https://github.com/BasteArima/repo-name)** — one-sentence description of the problem it solves.
-- **[repo-name](https://github.com/BasteArima/repo-name)** — one-sentence description of the problem it solves.
--->
 
 ### Stats
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BasteArima&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true&theme=github_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=BasteArima&show_icons=true&hide_border=true&hide_title=true&include_all_commits=true" height="150" alt="GitHub stats"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BasteArima&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BasteArima&theme=github" height="200" alt="Top languages by repository"/>
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BasteArima&layout=compact&hide_border=true&hide_title=true&langs_count=8&theme=github_dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BasteArima&layout=compact&hide_border=true&hide_title=true&langs_count=8" height="150" alt="Top languages"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasteArima&theme=github_dark"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasteArima&theme=github" height="200" alt="Most used languages by commit"/>
   </picture>
 </p>
+
+<!--
+Optional extra card - contribution streak. Uncomment to use:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=BasteArima&hide_border=true&theme=github-dark-blue"/>
+    <img src="https://streak-stats.demolab.com/?user=BasteArima&hide_border=true" height="180" alt="Contribution streak"/>
+  </picture>
+</p>
+-->
