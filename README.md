@@ -73,8 +73,6 @@
 ### Selected work
 
 - **[GachaBot](https://github.com/BasteArima/gachabot)** — A cross-platform Gacha bot for Telegram and Discord written in Go. Features card collecting, duels, sets, and promo codes.
-<!--- **[repo-name](https://github.com/BasteArima/HiddenPool)** — one-sentence description of the problem it solves.-->
-
 
 ### Stats
 
@@ -88,14 +86,3 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BasteArima&theme=github" height="200" alt="Most used languages by commit"/>
   </picture>
 </p>
-
-<!--
-Optional extra card - contribution streak. Uncomment to use:
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=BasteArima&hide_border=true&theme=github-dark-blue"/>
-    <img src="https://streak-stats.demolab.com/?user=BasteArima&hide_border=true" height="180" alt="Contribution streak"/>
-  </picture>
-</p>
--->
