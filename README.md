@@ -1,5 +1,3 @@
-<h1 align="center">Shamil Baste</h1>
-
 <p align="center">
   <b>Game & Golang Backend engineer</b>
 </p>
